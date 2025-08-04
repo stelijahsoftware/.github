@@ -1,3 +1,3 @@
-Website: [[LICENSE.txt](https://stelijah.com)](https://stelijah.com)
+<b>Website:</b> <a href="https://stelijah.com">https://stelijah.com</a>
 
-Email: supportAtstelijahDOTcom
+<b>Email:</b> supportAtstelijahDOTcom
